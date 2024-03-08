@@ -8,6 +8,10 @@
             font-weight: 300;
             font-style: normal;
          }
+        body
+        {
+            background-color: rgba(173, 171, 171, 0.334);
+        }
         nav
         {
             display: flex;
